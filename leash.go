@@ -15,7 +15,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Altinity/libclick-go"
+	"github.com/zhangtinglu/libclick-go"
 	"github.com/honeycombio/dynsampler-go"
 	"github.com/honeycombio/urlshaper"
 	"github.com/sirupsen/logrus"

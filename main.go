@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Altinity/libclick-go"
+	"github.com/zhangtinglu/libclick-go"
 	flag "github.com/jessevdk/go-flags"
 	"github.com/sirupsen/logrus"
 
