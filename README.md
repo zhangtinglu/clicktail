@@ -48,13 +48,13 @@ Download and install the package from here: https://packagecloud.io/Altinity/cli
 #### Install from source:
 
 ```
-go get github.com/Altinity/clicktail
+go get github.com/zhangtinglu/clicktail
 ```
 
 to install to a specific path:
 
 ```
-GOPATH=/usr/local go get github.com/Altinity/clicktail
+GOPATH=/usr/local go get github.com/zhangtinglu/clicktail
 ```
 
 ...and make it
